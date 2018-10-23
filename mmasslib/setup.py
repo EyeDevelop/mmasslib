@@ -18,7 +18,7 @@ URL = 'https://github.com/EyeDevelop/mmasslib'
 EMAIL = 'rooteddev@outlook.com'
 AUTHOR = 'EyeDevelop'
 REQUIRES_PYTHON = '>=3.5.0'
-VERSION = None
+VERSION = '1.0.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
